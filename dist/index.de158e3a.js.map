@@ -1,0 +1,1 @@
+{"mappings":"AAAA,EAAE,SAAS,IAAI,CAAC,UAAU,QAAQ,CAAC,OAC/B,qBAAqB","sources":["src/main.js"],"sourcesContent":["$('#test').find('.child').addClass('red')\r\n    // console.log(\"hi1\")"],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}
